@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  #quote-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  #new-quote-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: 1px solid #000;
+    background-color: darkslategrey;
+    color: #fff;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 5px;
+  }
+  #quote-text{
+    font-size: 1.3rem;
+  }
+  #author{
+    color: blue;
+    font-size: 1.2rem;
+  }
